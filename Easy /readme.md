@@ -3,7 +3,7 @@
 
 
 Here are the solutions to various problems associated with the Health_Care Dataset used in www.sql-practice.com:
-
+(Easy Questions)
 
 **Question 1:
 Show the first name, last name, and gender of patients whose gender is 'M'**
