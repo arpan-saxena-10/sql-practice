@@ -5,14 +5,14 @@
 Here are the solutions to various problems associated with the Health_Care Dataset used in www.sql-practice.com:
 
 
-
+<pre>
 **Question 1:
 Show the first name, last name, and gender of patients whose gender is 'M'**
 
 
 **Solution:**
 ![A1](https://github.com/user-attachments/assets/30e0867f-aaab-4982-9d6e-c5c06edb3576)
-
+</pre>
 
 
 
