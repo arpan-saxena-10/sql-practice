@@ -140,157 +140,92 @@ EX: SMITH,jane**
 
 
 
+**Question 14:
+Show the province_id(s), sum of height; where the total sum of its patient's height is greater than or equal to 7,000.**
 
 
+**Solution:**
+![Screenshot 2024-08-10 030621](https://github.com/user-attachments/assets/ac6e840a-5ea6-413b-b4c3-5e45047b4bef)
 
 
 
 
+**Question 15:
+Show the difference between the largest weight and smallest weight for patients with the last name 'Maroni'**
 
 
+**Solution:**
+![Screenshot 2024-08-10 030954](https://github.com/user-attachments/assets/24818f4a-0749-46d1-8c31-ee313eab05fe)
 
 
 
 
+**Question 16:
+Show all of the days of the month (1-31) and how many admission_dates occurred on that day. Sort by the day with most admissions to least admissions.**
 
 
+**Solution:**
+![Screenshot 2024-08-10 031937](https://github.com/user-attachments/assets/b9cce62d-8b82-45db-94d9-d097e6cc3869)
 
 
+**Question 17:
+Show all columns for patient_id 542's most recent admission_date.**
 
 
+**Solution:**
+![Screenshot 2024-08-10 032008](https://github.com/user-attachments/assets/74944615-a73a-418d-8409-ff342b3de057)
 
 
 
 
+**Question 18:
+Show patient_id, attending_doctor_id, and diagnosis for admissions that match one of the two criteria:
+1. patient_id is an odd number and attending_doctor_id is either 1, 5, or 19.
+2. attending_doctor_id contains a 2 and the length of patient_id is 3 characters.**
 
 
+**Solution:**
+![Screenshot 2024-08-10 032551](https://github.com/user-attachments/assets/4e6c20e0-c36f-47d4-b1e1-a60934c74676)
 
 
 
 
+**Question 19:
+Show first_name, last_name, and the total number of admissions attended for each doctor.
+Every admission has been attended by a doctor.**
 
 
+**Solution:**
+![Screenshot 2024-08-24 191639](https://github.com/user-attachments/assets/5eb18eee-2464-4129-9e44-0c5007dce92f)
 
 
 
 
+**Question 20:
+For each doctor, display their id, full name, and the first and last admission date they attended.**
 
 
+**Solution:**
+![Screenshot 2024-08-24 192237](https://github.com/user-attachments/assets/51d14064-61f8-4044-ba38-e9a586139d43)
 
 
 
 
+**Question 21:
+Display the total amount of patients for each province. Order by descending.**
 
 
+**Solution:**
+![Screenshot 2024-08-24 192828](https://github.com/user-attachments/assets/36dd0a58-6210-40b4-bb56-1b14739f377b)
 
 
 
 
+**Question 22:
+For every admission, display the patient's full name, their admission diagnosis, and their doctor's full name who diagnosed their problem.**
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Solution**
 
 
 
