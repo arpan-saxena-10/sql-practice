@@ -118,21 +118,52 @@ Show the total number of admissions**
 
 
 
+**Question 12:
+Show all the columns from admissions where the patient was admitted and discharged on the same day.**
+
+
+**Solution:**
+![Screenshot 2024-08-10 021543](https://github.com/user-attachments/assets/e444ab76-fd7a-47a3-b78c-833b334cb3ca)
 
 
 
 
+**Question 13:
+Show the patient id and the total number of admissions for patient_id 579.**
+
+
+**Solution:**
+![Screenshot 2024-08-10 021638](https://github.com/user-attachments/assets/0c825f69-16f6-4901-9b9d-778472eac8df)
 
 
 
 
+**Question 14:
+Based on the cities that our patients live in, show unique cities that are in province_id 'NS'?**
+
+
+**Solution:**
+![Screenshot 2024-08-10 022210](https://github.com/user-attachments/assets/3eb50d78-15da-48a1-9bf5-26428b1f7a47)
 
 
 
 
+**Question 15:
+Write a query to find the first_name, last name and birth date of patients who has height greater than 160 and weight greater than 70**
+
+
+**Solution:**
+![Screenshot 2024-08-10 022403](https://github.com/user-attachments/assets/1e41985a-398a-4448-8e76-c2ef39b54f6c)
 
 
 
+
+**Question 16:
+Write a query to find list of patients first_name, last_name, and allergies where allergies are not null and are from the city of 'Hamilton'**
+
+
+**Solution:**
+![Screenshot 2024-08-10 022457](https://github.com/user-attachments/assets/405c8df1-6f77-44e2-9379-c52e07cafb9c)
 
 
 
